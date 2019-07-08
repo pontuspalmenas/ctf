@@ -1,7 +1,8 @@
-# ctf
-CTF - cracking wargames
+# Overthewire CTF wargame
+http://overthewire.org/wargames/natas/
 
-# Natas16
+
+# Natas16 
 
 ## Notes
 
