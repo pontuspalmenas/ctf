@@ -1,8 +1,8 @@
 # Overthewire CTF wargame
-http://overthewire.org/wargames/natas/
-
+http://overthewire.org/wargames
 
 # Natas16 
+http://overthewire.org/wargames/natas/natas17.html
 
 ## Notes
 
